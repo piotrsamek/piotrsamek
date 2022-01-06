@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piotrsamek
 - 👀 I’m interested in embedded programming
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on projects involving raspberry pi and other SBCs using C and Python
 - 📫 How to reach me is to send me a PM
 
